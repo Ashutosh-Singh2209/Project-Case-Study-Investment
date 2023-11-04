@@ -1,30 +1,39 @@
 # Project-Case-Study-Investment
-Overview
-[Provide a brief overview of the project, including its goals, questions, data sources, and methods.]
 
-The goal of the project involves exploring our dataset which is csv format, to gain information about patterns related to startup fundings during years 2015 to 2017
+## Overview
 
-Questions to Explore
-1. Find out what type of startups are getting funded in the last few years?
-2. Who are the important investors?
-3. What are the hot fields that get a lot of funding these days?
-   
-This dataset has funding information of the Indian startups from January 2015 to August 2017. The details about columns in this file is given in Google colab notebook.
+This project was completed during my codingninjas data analytics course. It primarily involves the use of Python, along with libraries such as Pandas, Matplotlib, and some knowledge of NumPy.
 
-I used python libraries such as pandas and matplotlib.pyplot as tools to perform the analysis.
+The goal of this project is to explore a CSV dataset, gaining insights into patterns related to startup fundings during the years 2015 to 2017.
 
-Getting Started
-[Provide clear and concise instructions on how to set up and run the project.]
+## Questions to Explore
 
-In order to run the notebook, it can directly be opened in google colab from here only. the dataset needs to be uploaded to the colab invironment itself. That's all, we are all set to go.
+1. Find out what type of startups are receiving funding in recent years.
+2. Identify the key investors involved.
+3. Determine the prominent fields receiving significant funding.
 
-Code and Data Documentation
-[Provide explanations of the code and data, including the data structure and any pre-processing steps that were taken.]
+The dataset contains funding information for Indian startups from January 2015 to August 2017. Further details about the columns in this dataset can be found in the corresponding Google Colab notebook.
 
-The detailed procedure , details of the code and the dataset is given in notebook markdown file.
+I utilized Python libraries, including Pandas and Matplotlib, to perform the analysis.
 
-Results
-[Describe the results of your analysis, including relevant metrics, graphs, and tables.]
+## Getting Started
 
-the outcome of this analysis is a comprehensive insight into the dataset giving following insights.
-INSIGHTS :
+To run the notebook, simply open it in Google Colab. Upload the dataset to the Colab environment, and you're good to go.
+
+## Code and Data Documentation
+
+The detailed procedure, along with the code and dataset information, is provided in the notebook's markdown file.
+
+## Results
+
+The outcomes of the analysis provide comprehensive insights into the dataset, revealing the following:
+
+### Insights:
+
+1. The number of fundings increased from 2015 to 2016 but decreased in 2017.
+2. The most popular cities for starting a startup are Bangalore, Mumbai, New Delhi, Gurgaon, Pune, Noida, Hyderabad, and Chennai.
+3. The top Indian cities with the most funding received are Bangalore, New Delhi, Mumbai, and Gurgaon.
+4. The percentage of funding in various investment types: Private Equity (98.21%), Seed Funding (1.75%), Debt Funding (0.05%).
+5. Ecommerce, Consumer Internet, Technology, and Online Marketplace are the types of companies that received funding more easily.
+6. The top 5 startups with the most funding are Paytm, Flipkart, Ola, Snapdeal, and Oyo. The top 5 startups with the most funding rounds are Ola, Swiggy, Oyo, UrbanClap, and Flipkart.
+7. The top 5 investors are Sequoia Capital, Accel Partners, SAIF Partners, Kalaari Capital, and Blume Ventures.
